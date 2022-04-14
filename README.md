@@ -5,8 +5,7 @@ Write in terminal "sudo apt install virt-manager qemu-system" then press enter. 
 
 ![](png/1.png)
 
-After that press "y"
-After installation finish reboot your computer
+Then press "y". Restart your computer when installation is complete
 # 2. How to create VM
 Run virt-manager
 
